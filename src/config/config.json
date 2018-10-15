@@ -13646,7 +13646,7 @@
     "url": "https://8f889605ace248d88784796a32903c9e@sentry.io/1202649"
   },
   "server": {
-    "port": 3000,
+    "port": 8080,
     "logCalls": false
   }
 }
